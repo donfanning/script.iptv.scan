@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<window type="window" id="1100">
+	<defaultcontrol always="true">160</defaultcontrol>
+	<allowoverlay>no</allowoverlay>
+	<controls>
+		<control type="label">
+			<posx>981</posx>
+			<posy>154</posy>
+			<width>207</width>
+			<height>319</height>
+			<font>title20b</font>
+			<align>center</align>
+			<aligny>center</aligny>
+			<textcolor>white</textcolor>
+			<wrapmultiline>true</wrapmultiline>
+			<label>Get User Data</label>
+		</control>
+	</controls>
+</window>
